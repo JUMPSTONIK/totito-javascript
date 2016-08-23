@@ -1,0 +1,18 @@
+.clear{
+	clear: both;
+}
+.contenedor{
+	box-sizing: border-box;
+	width: 33.33%;
+	float: left;
+	height: 250px;
+	border: black 2px solid;
+	
+	text-align: center;
+	line-height: 250px;
+	font-size: 100px;
+}
+.almace{
+height: 250px;
+
+}
